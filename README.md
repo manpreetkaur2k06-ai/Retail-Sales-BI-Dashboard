@@ -1,3 +1,4 @@
+<img width="882" height="489" alt="Dashboard" src="https://github.com/user-attachments/assets/12cd61d7-41cd-487d-8e9c-f3f055688f76" />
 # Retail-Sales-BI-Dashboard
 Interactive Power BI dashboard for retail sales analysis and business insights.
 # Retail Sales & Business Intelligence Dashboard
